@@ -16,9 +16,10 @@ The function 'depack' is a dumb function to retreive the source, but you steel n
 If you enter a wrong password normally nothing happend.
 
 usage:
-  ./pyranoïd -s thefile.py > crypted.py
-  passwd>
-  confirm>
+
+./pyranoïd -s thefile.py > crypted.py
+passwd>
+confirm>
   
-  python3.x crypted.py
-  pack.pw>
+python3.x crypted.py
+pack.pw>
